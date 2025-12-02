@@ -19,7 +19,7 @@ Creating agents capable of executing complex tasks, interacting with APIs, autom
 
 These three pillars reinforce each other: analyze, automate, then industrialize with specialized AI.
 
----
+
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ These three pillars reinforce each other: analyze, automate, then industrialize 
 | **AI & Agents** | LLMs, RAG, multi-agent orchestration |
 | **Environment** | Docker, Git, GitHub, Jupyter, Linux |
 
----
+
 
 ## My Approach
 
