@@ -5,6 +5,20 @@ import joblib
 import plotly.graph_objects as go
 import xgboost as xgb  # CRITICAL: Must be imported for joblib to unpickle the model correctly
 
+import os
+# --- CODE ESPION (A RETIRER PLUS TARD) ---
+st.write("📂 Répertoire actuel :", os.getcwd())
+try:
+    fichiers = os.listdir('.')
+    st.write("📄 Fichiers trouvés ici :", fichiers)
+    if "requirements.txt" in fichiers:
+        st.success("✅ requirements.txt est BIEN présent !")
+    else:
+        st.error("❌ requirements.txt est ABSENT de ce dossier !")
+except Exception as e:
+    st.write("Erreur lecture dossier:", e)
+# ------------------------------------------
+
 # -----------------------------------------------------------------------------
 # 1. PAGE CONFIGURATION
 # -----------------------------------------------------------------------------
@@ -304,4 +318,5 @@ st.markdown("""
 <div style="text-align: center; color: gray; font-size: 12px;">
     HR Analytics Dashboard | v2.0 Stable | Powered by Nerva AI Solutions
 </div>
+
 """, unsafe_allow_html=True)
