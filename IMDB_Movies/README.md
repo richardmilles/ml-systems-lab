@@ -1,5 +1,5 @@
 # Predicting IMDB Movie Financial Success
-
+ 
 ## 1. Introduction
 
 This data science project aims to predict the **Gross Revenue (Gross)** of films based on their characteristics, utilizing the **IMDB Movies Dataset** available on Kaggle.
