@@ -1,7 +1,7 @@
 # Employee Attrition Prediction
 
 ## 1. Introduction
-
+ 
 ### 1.1 Project Context
 Employee attrition is a major issue in many companies. High staff turnover can lead to significant costs in recruitment, training, and loss of skills. Understanding the reasons for voluntary departures and predicting which employees are likely to leave would allow companies to anticipate these departures and take corrective measures.
 
