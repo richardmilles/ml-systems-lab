@@ -1,4 +1,4 @@
-# Welcome to my Data & Artificial Intelligence Space
+# Welcome to my Data & Artificial Intelligence Space 
 
 This repository gathers the projects I deemed relevant in my journey: analyses, pipelines, and experiments. Each folder corresponds to a documented project developed to consolidate my skills and explore real-world approaches applied to data.
 
