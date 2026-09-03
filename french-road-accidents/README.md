@@ -1,6 +1,6 @@
 # Analysis and Modeling of Road Accident Severity in France (2005–2021)
 
-## 1. Introduction
+## 1. Introduction 
 
 Road accidents represent a major public health, safety, and economic issue. Every year, thousands of people are killed or seriously injured on French roads. Understanding the factors that influence the severity of an accident is crucial for improving prevention, guiding public policies, and optimizing claims handling or pricing for insurers.
 
